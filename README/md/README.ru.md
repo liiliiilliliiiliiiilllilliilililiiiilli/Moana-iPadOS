@@ -1,4 +1,4 @@
-# Moana - мобильное приложение для iPadOS в помощь слабослышащим
+# Moana - мобильное приложение под iPadOS в помощь слабослышащим
 
 [![ru][localfile_svg_ru]][localfile_readme_ru]
 [![en][localfile_svg_en]][localfile_readme_en]
