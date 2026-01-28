@@ -1,4 +1,4 @@
-# Moana - 一款适用于 iPadOS 的移动应用，旨在帮助听障人士
+# Moana - 一款适用于 iPadOS 的移动应用，旨在帮助听障人士 🍄
 
 [![ru][localfile_svg_ru]][localfile_readme_ru]
 [![en][localfile_svg_en]][localfile_readme_en]
